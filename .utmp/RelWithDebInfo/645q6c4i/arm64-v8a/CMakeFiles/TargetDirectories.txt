@@ -1,0 +1,5 @@
+C:/Users/ranur/AR_DSA_FC231021/.utmp/RelWithDebInfo/645q6c4i/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/ranur/AR_DSA_FC231021/.utmp/RelWithDebInfo/645q6c4i/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/ranur/AR_DSA_FC231021/.utmp/RelWithDebInfo/645q6c4i/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/ranur/AR_DSA_FC231021/.utmp/RelWithDebInfo/645q6c4i/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/ranur/AR_DSA_FC231021/.utmp/RelWithDebInfo/645q6c4i/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
