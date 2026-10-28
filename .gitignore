@@ -1,3 +1,5 @@
+
+# Unity generated files
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -5,7 +7,45 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# IDE files
 .vs/
 .idea/
+.gradle/
+.consulo/
+
+# Generated project and solution files
 *.csproj
+*.unityproj
 *.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Logs and crash reports
+*.log
+sysinfo.txt
+mono_crash.*
+
+# Build outputs
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Other generated files
+*.blend1
+*.blend1.meta
+*.DotSettings.user
+ExportedObj/
